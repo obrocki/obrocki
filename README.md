@@ -6,16 +6,4 @@
 
 - 👯 I’m looking to collaborate on Open Source projects
 
-- 💬 Ask me about C#, Azure PaaS Services, GitHub, .NET MAUI, ASP.NET Blazor
-
-
-<table style="border-collapse: collapse; border: 0;">
-    <tr>
-        <td style="border: 0; background-color: red;">🟥</td>
-        <td style="border: 0; background-color: green;">🟩</td>
-    </tr>
-    <tr>
-        <td style="border: 0; background-color: blue;">🟦</td>
-        <td style="border: 0; background-color: yellow;">🟨</td>
-    </tr>
-</table>
+- 💬 Ask me about C#, Azure PaaS Services, GitHub, .NET MAUI, ASP.NET Blazor, electric guitar 🎸
